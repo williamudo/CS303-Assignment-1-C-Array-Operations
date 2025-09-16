@@ -1,4 +1,4 @@
-# CS303 Assignment 1 — Array Operations in C++
+# CS303 Assignment 1 — C++ Array Operations
 
 This project aims to reads integers from a text file into a one-dimensional array (not a vector) and allows the user to:
   - Search for a number in the array
