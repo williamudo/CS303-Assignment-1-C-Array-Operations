@@ -14,3 +14,6 @@ This project aims to reads integers from a text file into a one-dimensional arra
   2. Run in terminal:
 
      ./main
+
+# NOTE:
+  - Screenshot of output attached as well.
